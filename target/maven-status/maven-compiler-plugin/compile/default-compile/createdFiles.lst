@@ -1,0 +1,5 @@
+com/pluralsight/model/Event.class
+com/pluralsight/WebInitializer.class
+com/pluralsight/WebConfig.class
+com/pluralsight/controller/EventController.class
+com/pluralsight/controller/HelloController.class
